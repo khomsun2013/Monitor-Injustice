@@ -5,6 +5,7 @@ Our project focuses on using data for analysis and proposes an unbiased conclusi
 Monitor police brutality in reference to well-known sources 
 Provide a follow-up data analysis of fatal encounters of police brutality, starting from 2000. 
 Analyze the effects of the Black Lives Matter (BLM) movement by comparing data from before and after the movement.  
+     
      3.1 Before BLM (January 1, 2000 to July 13, 2013) 
      3.2 After BLM (July 13, 2013 to May 25,2020) 
      3.3 After the death of George Floyd (May 25, 2020 and onwards) 
