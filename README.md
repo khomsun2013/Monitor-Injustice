@@ -6,15 +6,16 @@ Monitor police brutality in reference to well-known sources
 Provide a follow-up data analysis of fatal encounters of police brutality, starting from 2000. 
 Analyze the effects of the Black Lives Matter (BLM) movement by comparing data from before and after the movement.  
      
-     3.1 Before BLM (January 1, 2000 to July 13, 2013) 
-     3.2 After BLM (July 13, 2013 to May 25,2020) 
-     3.3 After the death of George Floyd (May 25, 2020 and onwards) 
+     1. Before BLM (January 1, 2000 to July 13, 2013) 
+     2. After BLM (July 13, 2013 to May 25,2020) 
+     3. After the death of George Floyd (May 25, 2020 and onwards) 
  
 The expectation of this project is to provide people with a deeper understanding of police brutality and its effects, hoping that it will lead to changes and an improvement of the police system.  
-Public Data Resource: 
-This source (https://fatalencounters.org) has been monitoring and updating occurrences of police brutality since January of 2000.  
-The Washington Post was one of the first organizations to begin recording and collecting data of police shootings, starting back in January of 2015. (https://github.com/washingtonpost/data-police-shootings/commits/master) 
-This source (https://killedbypolice.net) has been tracking events 
-https://www.kaggle.com/jpmiller/police-violence-in-the-us 
-https://www.kaggle.com/center-for-policing-equity/data-science-for-good 
+Public Data Resource:
+
+1. This source (https://fatalencounters.org) has been monitoring and updating occurrences of police brutality since January of 2000.  
+2. The Washington Post was one of the first organizations to begin recording and collecting data of police shootings, starting back in January of 2015. (https://github.com/washingtonpost/data-police-shootings/commits/master) 
+3. This source (https://killedbypolice.net) has been tracking events 
+4. https://www.kaggle.com/jpmiller/police-violence-in-the-us 
+5. https://www.kaggle.com/center-for-policing-equity/data-science-for-good 
  
