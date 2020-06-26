@@ -18,5 +18,7 @@ Public Data Resource:
 2. The Washington Post was one of the first organizations to begin recording and collecting data of police shootings, starting back in January of 2015. (https://github.com/washingtonpost/data-police-shootings/commits/master) 
 3. This source (https://killedbypolice.net) has been tracking events 
 4. https://www.kaggle.com/jpmiller/police-violence-in-the-us 
-5. https://www.kaggle.com/center-for-policing-equity/data-science-for-good 
+5. https://www.kaggle.com/center-for-policing-equity/data-science-for-good
+
+The Fatal Encounters Data Analysis from https://fatalencounters.org presents in 
  
