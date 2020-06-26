@@ -10,7 +10,8 @@ Analyze the effects of the Black Lives Matter (BLM) movement by comparing data f
      2. After BLM (July 13, 2013 to May 25,2020) 
      3. After the death of George Floyd (May 25, 2020 and onwards) 
  
-The expectation of this project is to provide people with a deeper understanding of police brutality and its effects, hoping that it will lead to changes and an improvement of the police system.  
+The expectation of this project is to provide people with a deeper understanding of police brutality and its effects, hoping that it will lead to changes and an improvement of the police system.
+
 Public Data Resource:
 
 1. This source (https://fatalencounters.org) has been monitoring and updating occurrences of police brutality since January of 2000.  
