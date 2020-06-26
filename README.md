@@ -22,5 +22,5 @@ Public Data Resource:
 
 Data Preparation, Data Analysis:
 
-The Fatal Encounters Data Analysis from https://fatalencounters.org presents in https://github.com/khomsun2013/Monitor-Injustice/blob/master/FatalEncounters.ipynb
+1. The Fatal Encounters Data Analysis from https://fatalencounters.org presents in https://github.com/khomsun2013/Monitor-Injustice/blob/master/FatalEncounters.ipynb
  
