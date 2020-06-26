@@ -20,5 +20,7 @@ Public Data Resource:
 4. https://www.kaggle.com/jpmiller/police-violence-in-the-us 
 5. https://www.kaggle.com/center-for-policing-equity/data-science-for-good
 
-The Fatal Encounters Data Analysis from https://fatalencounters.org presents in 
+Data Preparation, Data Analysis:
+
+The Fatal Encounters Data Analysis from https://fatalencounters.org presents in https://github.com/khomsun2013/Monitor-Injustice/blob/master/FatalEncounters.ipynb
  
